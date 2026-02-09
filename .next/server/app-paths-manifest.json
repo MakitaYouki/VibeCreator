@@ -1,7 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/analyze/page": "app/analyze/page.js",
-  "/create/page": "app/create/page.js",
-  "/test-db/page": "app/test-db/page.js",
-  "/settings/page": "app/settings/page.js"
-}
